@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+ <img src="https://github.com/GabrieldeJB/GabrieldeJB/blob/main/foto-perfil.png?raw=true" align="center" style="width: 100%" />
 </div>  
-  
+
+
 
 ### <div align="center">💻 Desenvolvedor Back-End | Em transição para Fullstack| Em busca de uma vaga</div>  
   

@@ -15,7 +15,8 @@
 - Meu objetivo é me tornar um desenvolvedor fullstack, ampliando minha atuação para o front-end  
   
 
-- Buscando sempre me atualizar  
+- Buscando sempre me atualizar sobre as novas tecnologias
+  
   
 
 <br/>  

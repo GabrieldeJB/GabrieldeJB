@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/GabrieldeJB/GabrieldeJB/blob/main/foto-perfil.png?raw=true" align="center" style="width: 100%" />
+ <img src="https://github.com/GabrieldeJB/GabrieldeJB/blob/main/github-header-image.png" align="center" style="width: 100%" />
 </div>  
 
 

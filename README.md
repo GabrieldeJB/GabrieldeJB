@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">💻 Back-End Developer | Transitioning to Fullstack | Open to Opportunities<br><br>I am currently working as a back-end developer, with a strong focus on Java.<br><br>I also have basic knowledge of Python.<br><br>My goal is to become a fullstack developer by expanding my skills into front-end technologies.<br><br>I am constantly seeking to stay updated with the latest tools and trends in the tech industry.</p>
+<p align="left">💻 Back-End Developer | Open to Opportunities<br><br>I am currently working as a back-end developer, with a strong focus on Java.<br><br>I also have basic knowledge of Python.<br><br>My goal is to become a fullstack developer by expanding my skills into front-end technologies.<br><br>I am constantly seeking to stay updated with the latest tools and trends in the tech industry.</p>
 
 ###
 

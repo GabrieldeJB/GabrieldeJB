@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">💻 Back-End Developer | Open to Opportunities<br><br>I am currently working as a back-end developer, with a strong focus on Java.<br><br>I also have basic knowledge of Python.<br><br>My goal is to become a fullstack developer by expanding my skills into front-end technologies.<br><br>I am constantly seeking to stay updated with the latest tools and trends in the tech industry.</p>
+<p align="left">💻 Back-End Developer | Open to Opportunities<br><br>I am currently working as a back-end developer, with a strong focus on Java.<br><br>My goal is to become a fullstack developer by expanding my skills into front-end technologies.<br><br>I am constantly seeking to stay updated with the latest tools and trends in the tech industry.</p>
 
 ###
 
@@ -35,15 +35,13 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
